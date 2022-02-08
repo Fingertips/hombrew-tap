@@ -3,7 +3,7 @@ class Teletube < Formula
   homepage 'https://github.com/Fingertips/teletube'
   url 'https://github.com/Fingertips/teletube/archive/refs/tags/v0.0.8.tar.gz'
   version '0.0.8'
-  sha256 'f7e008ba75f095a607390fd0714fb04baa618e7c407ee6401d1db867e14dd0d8'
+  sha256 '0efcf4474b7d36eb99e7e6fbf687c6d2ceab8f5e55d7bb2e6de93c779465df0f'
   head 'https://github.com/Fingertips/teletube.git'
 
   depends_on 'crystal-lang' => :build
