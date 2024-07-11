@@ -1,9 +1,9 @@
 class Teletube < Formula
-  desc 'Command line interface for interacting with the SWITCHtube web service'
+  desc 'Command line interface for interacting with the Switch Tube web service'
   homepage 'https://github.com/Fingertips/teletube'
-  url 'https://github.com/Fingertips/teletube/archive/refs/tags/v0.1.0.tar.gz'
-  version '0.1.0'
-  sha256 '7cfe1070f6e227c924aa01507b55cf29aa3790dd538324f71b6f6fd672052e49'
+  url 'https://github.com/Fingertips/teletube/archive/refs/tags/v0.3.0.tar.gz'
+  version '0.3.0'
+  sha256 '4d9f6b92455d78e963a82ddf9ea8381f706b42b9c4058004bec7c4b412065dbf'
   head 'https://github.com/Fingertips/teletube.git'
 
   depends_on 'crystal-lang' => :build
